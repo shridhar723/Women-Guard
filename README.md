@@ -2,7 +2,7 @@ This project details the development of a mobile application that shares a user'
 
 The app leverages Android's GPS and SMS functionalities to alert user-defined emergency contacts quickly and effectively.
 
-🎯 Objectives
+ Objectives
 Ensure personal safety during emergencies
 
 Provide quick access to communication tools
